@@ -67,3 +67,6 @@ g++ main.cpp function.cpp DataGenerator.cpp -o sort
 - `function.cpp`, `function.h`: Cài đặt các thuật toán sắp xếp và hàm hỗ trợ.
 - `DataGenerator.cpp`: Sinh dữ liệu đầu vào với nhiều kiểu khác nhau.
 
+## Đóng góp
+
+Mọi đóng góp, báo lỗi hoặc ý tưởng cải tiến đều được hoan nghênh!
