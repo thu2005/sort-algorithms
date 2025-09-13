@@ -1,0 +1,32 @@
+# Ignore build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+# Ignore generated data files
+input*.txt
+output*.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Ignore user/editor files
+*.log
+*.user
+*.suo
+*.vcxproj.user
+*.vscode/
+
+# Ignore temporary files
+*.tmp
+*.bak
+~$*
+
+# Ignore PDF and Excel (if not tracked)
+#Report.pdf
+Checklist.xlsx
